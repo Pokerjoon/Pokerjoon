@@ -55,6 +55,6 @@
 
 
 <p align="left">
-  - [💙telegram](https://t.me/pokerjoon)
-  - [🧡instagram](https://instagram.com/pokerjoon)
-  - [💚spotify](https://open.spotify.com/pokerjoon)
+- [💙telegram](https://t.me/pokerjoon)
+- [🧡instagram](https://instagram.com/pokerjoon)
+- [💚spotify](https://open.spotify.com/pokerjoon)
