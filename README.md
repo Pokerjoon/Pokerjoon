@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **FrontEnd**
 
-- 📫 How to reach me: **im.useram@gmail.com**
+- 📫 How to reach me: **X.Poker313@gmail.com**
 
 ---
 
@@ -46,15 +46,11 @@
 ---
 
 ### 📌 Featured Projects
-
-- [💜Royalvpn](https://Royalvpn.shop)
 - [💙X-link](https://x-link.ir)
+- [💜Royalvpn](https://Royalvpn.shop)
 ---
 
 ### 📫 Contact Me
-
-
-<p align="left">
 - [💙telegram](https://t.me/pokerjoon)
 - [🧡instagram](https://instagram.com/pokerjoon)
 - [💚spotify](https://open.spotify.com/pokerjoon)
